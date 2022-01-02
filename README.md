@@ -5,6 +5,8 @@ The *main_pipeline.ipynb* notebook is the commented and cleaned version and the 
 
 If recreating the result is desired, the raw data has to be uploaded to Google Drive and the path has to be specified in the notebook.
 
+> The dataset is not allowed to be shared, please refer to Deloitte for accessing it.
+
 The suggested folder structure would be the following, for the repsective classes of images:
 ```
 └──test_data
