@@ -1,7 +1,7 @@
 # 02456-DeepLearning-Segmentality
 Segmentation of Car Parts for Deloitte
 
-The *main_pipeline.ipynb* notebook is showing the result from the last run.
+The *main_pipeline.ipynb* notebook is the commented and cleaned version and the *unet_working.ipynb* shows the result from the last run.
 
 If recreating the result is desired, the raw data has to be uploaded to Google Drive and the path has to be specified in the notebook.
 
